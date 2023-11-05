@@ -32,73 +32,73 @@ body{
   border: none !important;
   background: rgba(0,0,0,0.02) !important;
 }
-/* Style for the input container */
+
 .input-container {
   position: relative;
   display: inline-block;
 }
 
-/* Style for the input field */
+
 .bg-input {
-  padding-right: 30px; /* Adjust the value to make space for the icon */
-  width: 200px; /* Adjust the width as needed */
-  height: 30px; /* Adjust the height as needed */
+  padding-right: 30px;
+  width: 200px; 
+  height: 30px; 
 }
 
-/* Style for the icon */
+
 .icon {
   position: absolute;
   top: 76%;
-  right: 15px; /* Adjust the right distance as needed */
+  right: 15px; 
   transform: translateY(-50%);
-  width: 20px; /* Adjust the width of the icon as needed */
-  height: 20px; /* Adjust the height of the icon as needed */
+  width: 20px; 
+  height: 20px; 
 }
 
-/* Style for the input container */
+
 .input-date {
   position: relative;
   display: inline-block;
 }
 
-/* Style for the input field */
+
 .bg-input {
-  padding-right: 30px; /* Adjust the value to make space for the icon */
-  width: 200px; /* Adjust the width as needed */
-  height: 30px; /* Adjust the height as needed */
+  padding-right: 30px; 
+  width: 200px; 
+  height: 30px; 
 }
 
-/* Style for the icon */
+
 .icons {
   position: absolute;
   top: 76%;
-  right: 15px; /* Adjust the right distance as needed */
+  right: 15px; 
   transform: translateY(-50%);
-  width: 20px; /* Adjust the width of the icon as needed */
-  height: 20px; /* Adjust the height of the icon as needed */
+  width: 20px; 
+  height: 20px; 
 }
 
-/* Style for the input container */
+
 .search-container {
   position: relative;
   display: inline-block;
 }
 
-/* Style for the input field */
+
 .bg-input {
-  padding-right: 30px; /* Adjust the value to make space for the icon */
-  width: 200px; /* Adjust the width as needed */
-  height: 30px; /* Adjust the height as needed */
+  padding-right: 30px; 
+  width: 200px; 
+  height: 30px; 
 }
 
-/* Style for the icon */
+
 .search-icon {
   position: absolute;
   top: 58%;
-  right: 15px; /* Adjust the right distance as needed */
+  right: 15px; 
   transform: translateY(-50%);
-  width: 20px; /* Adjust the width of the icon as needed */
-  height: 20px; /* Adjust the height of the icon as needed */
+  width: 20px; 
+  height: 20px; 
 }
 .forms-check-input:checked{
   background-color: #cbccce !important;
