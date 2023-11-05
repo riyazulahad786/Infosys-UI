@@ -110,6 +110,28 @@ body{
   width: 26px !important;
   height: 20px !important;
 }
+
+#textContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.text-box {
+  display: flex;
+  margin: 5px;
+  padding: 6px;
+  border: 2px solid rgb(138, 135, 135);
+  border-radius: 20px;
+  font-size: 15px;
+  align-items: center;
+  justify-content: center;
+}
+
+.close-button {
+  cursor: pointer;
+  color: grey;
+  margin-left: 10px;
+}
 @media screen and (max-width:550px){
   .search-container{
     margin-bottom: 12px;
